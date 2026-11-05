@@ -25,14 +25,16 @@ I'm currently working on personal projects, exploring new technologies, experime
 My main Programming Language is Python.
 I also know how to use Photoshop.
 
+---
 
-# Tools
+**Tools**
 
 - Language: 🐍Python
 - IDE: Visual Studio Code
 
+---
 
-# About me
+**About me**
 
 - ☕ I love drinking tea
 - 📺 Favorite TV Show: Dexter
