@@ -1,4 +1,6 @@
-## Hi there 👋
+██  ██ ▄▄▄▄▄ ▄▄ ▄▄   ▄▄▄▄▄▄ ▄▄ ▄▄ ▄▄▄▄▄ ▄▄▄▄  ▄▄▄▄▄ 
+██████ ██▄▄  ▀███▀     ██   ██▄██ ██▄▄  ██▄█▄ ██▄▄  
+██  ██ ██▄▄▄   █       ██   ██ ██ ██▄▄▄ ██ ██ ██▄▄▄                                                                  
 
 <!--
 **imdrizl/imdrizl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Maksim, a software engineering enthusiast from Germany.
+
+I currently work on personal projects, exploring new technologies, experimenting with ideas and improving my coding skills.
+
+My main Programming Language is Python.
+I also know how to use Photoshop.
+
+---
+
+## Tools
+
+- Language: Python
+- IDE: Visual Studio Code
+
+---
+
+## About me
+
+- I love drinking tea
+- Favorite TV Show: Dexter
+- I love ASCII fonts
+
