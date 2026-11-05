@@ -1,4 +1,4 @@
-# Hi There <img src="https://tenor.com/de/view/bruhlmaojk-dexter-dexter-edit-gif-1861923237019944738" width="30" />                                                      
+# **Hi There** <div class="tenor-gif-embed" data-postid="1861923237019944738" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/bruhlmaojk-dexter-dexter-edit-gif-1861923237019944738">Bruhlmaojk Dexter GIF</a>from <a href="https://tenor.com/search/bruhlmaojk-gifs">Bruhlmaojk GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>                                                     
 
 <!--
 **imdrizl/imdrizl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
