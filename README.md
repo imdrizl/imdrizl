@@ -1,5 +1,5 @@
 <h1>
-  # **Hi There**
+  <strong>Hi There!</strong>
   <img src="dexter.gif" width="40">
 </h1>
                                             
