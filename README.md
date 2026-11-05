@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 I'm Maksim, a software engineering enthusiast from Germany.
 
-I currently work on personal projects, exploring new technologies, experimenting with ideas and improving my coding skills.
+I'm currently working on personal projects, exploring new technologies, experimenting with ideas and improving my coding skills.
 
 My main Programming Language is Python.
 I also know how to use Photoshop.
