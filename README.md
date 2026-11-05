@@ -1,9 +1,4 @@
-  _   _ _   _____ _                   
- | | | (_) |_   _| |__   ___ _ __ ___ 
- | |_| | |   | | | '_ \ / _ \ '__/ _ \
- |  _  | |   | | | | | |  __/ | |  __/
- |_| |_|_|   |_| |_| |_|\___|_|  \___|
-                                                                                                  
+# Hi There <img src="https://tenor.com/de/view/bruhlmaojk-dexter-dexter-edit-gif-1861923237019944738" width="30" />                                                      
 
 <!--
 **imdrizl/imdrizl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,14 +25,14 @@ I also know how to use Photoshop.
 
 ## Tools
 
-- Language: Python
+- Language: 🐍Python
 - IDE: Visual Studio Code
 
 ---
 
 ## About me
 
-- I love drinking tea
-- Favorite TV Show: Dexter
-- I love ASCII fonts
+- ☕ I love drinking tea
+- 📺 Favorite TV Show: Dexter
+- 🎱 I love ASCII fonts
 
