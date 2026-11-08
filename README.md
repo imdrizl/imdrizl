@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="dark-forest.jpg" width="100%">
+</p>
+
 <h1>
   <strong>Hi There!</strong>
   <img src="dexter.gif" width="40">
