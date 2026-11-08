@@ -3,10 +3,10 @@
   <img src="banner.jpg" width="100%">
 </p>
 
-<h1 style="border-bottom: none;">
+<h3 style="border-bottom: none;">
   Hi There!
   <img src="dexter.gif" width="40">
-</h1>
+</h3>
 
 I'm Maksim, a software engineering enthusiast from Germany.
 I'm currently working on personal projects, exploring new technologies and improving my coding skills.
