@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="dark-forest.jpg" width="100%">
 </p>
@@ -6,27 +7,29 @@
   <strong>Hi There!</strong>
   <img src="dexter.gif" width="40">
 </h1>
-                                            
 
 I'm Maksim, a software engineering enthusiast from Germany.
 
-I'm currently working on personal projects, exploring new technologies, experimenting with ideas and improving my coding skills.
+I'm currently working on personal projects, exploring new technologies and improving my coding skills.
 
-My main Programming Language is Python.
-I also know how to use Photoshop.
-
+My main programming language is Python, and I also have experience with Photoshop.
 
 ---
 
 **Tools**
+
 <table>
   <tr>
-    <td><strong>Language:</strong></td>
+    <td><strong>Language</strong></td>
     <td><img src="https://skillicons.dev/icons?i=python" width="28"></td>
   </tr>
   <tr>
-    <td><strong>IDE:</strong></td>
+    <td><strong>IDE</strong></td>
     <td><img src="https://skillicons.dev/icons?i=vscode" width="28"></td>
+  </tr>
+  <tr>
+    <td><strong>Design</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=photoshop" width="28"></td>
   </tr>
 </table>
 
@@ -37,4 +40,3 @@ I also know how to use Photoshop.
 - ☕ I love drinking tea
 - 📺 Favorite TV Show: Dexter
 - 🎱 I love ASCII fonts
-
