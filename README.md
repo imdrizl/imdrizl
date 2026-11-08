@@ -16,8 +16,8 @@ I also know how to use Photoshop.
 
 **Tools**
 
-- Language:  <img src="https://skillicons.dev/icons?i=python" height="30" align="center">
-- IDE: <img src="https://skillicons.dev/icons?i=vscode" height="30" align="center">
+- Language:  <img src="https://skillicons.dev/icons?i=python" width="24" height="24" align="middle">
+- IDE: <img src="https://skillicons.dev/icons?i=vscode" width="24" height="24" align="middle">
 ---
 
 **About me**
