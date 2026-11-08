@@ -27,7 +27,6 @@ I'm currently working on personal projects, exploring new technologies and impro
   </tr>
 </table>
 
----
 
 ### About me
 
