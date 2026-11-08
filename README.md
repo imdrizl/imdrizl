@@ -4,20 +4,6 @@
 </h1>
                                             
 
-<!--
-**imdrizl/imdrizl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 I'm Maksim, a software engineering enthusiast from Germany.
 
 I'm currently working on personal projects, exploring new technologies, experimenting with ideas and improving my coding skills.
@@ -30,8 +16,8 @@ I also know how to use Photoshop.
 
 **Tools**
 
-- Language: 🐍Python
-- IDE: Visual Studio Code
+- Language: <img src="https://skillicons.dev/icons?i=python" />
+- IDE: <img src="https://skillicons.dev/icons?i=vscode" />
 
 ---
 
