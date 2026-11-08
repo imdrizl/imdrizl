@@ -9,9 +9,8 @@
 I'm Maksim, a software engineering enthusiast from Germany.
 I'm currently working on personal projects, exploring new technologies and improving my coding skills.
 
----
 
-**Tools**
+### Tools
 
 <table>
   <tr>
@@ -30,7 +29,7 @@ I'm currently working on personal projects, exploring new technologies and impro
 
 ---
 
-**About me**
+### About me
 
 - ☕ I love drinking tea
 - 📺 Favorite TV Show: Dexter
