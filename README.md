@@ -17,11 +17,11 @@ I also know how to use Photoshop.
 **Tools**
 <table>
   <tr>
-    <td>• <strong>Language:</strong></td>
+    <td><strong>Language:</strong></td>
     <td><img src="https://skillicons.dev/icons?i=python" width="28"></td>
   </tr>
   <tr>
-    <td>• <strong>IDE:</strong></td>
+    <td><strong>IDE:</strong></td>
     <td><img src="https://skillicons.dev/icons?i=vscode" width="28"></td>
   </tr>
 </table>
