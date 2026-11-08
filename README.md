@@ -4,15 +4,13 @@
 </p>
 
 <h1>
-  <strong>Hi There!</strong>
+  Hi There!
   <img src="dexter.gif" width="40">
 </h1>
 
 I'm Maksim, a software engineering enthusiast from Germany.
 
 I'm currently working on personal projects, exploring new technologies and improving my coding skills.
-
-My main programming language is Python, and I also have experience with Photoshop.
 
 ---
 
